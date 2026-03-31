@@ -1,4 +1,4 @@
-# Hi, I'm GhazT1 | Senior Data Professional 📊
+# Hi, I'm Ghazi | Senior Data Professional 📊
 
 With over **4+ years of experience**, I bridge the gap between complex data and strategic business decisions. I specialize in turning raw data into high-impact narratives that drive stakeholder action.
 
