@@ -41,5 +41,5 @@ With over **4+ years of experience**, I bridge the gap between complex data and 
 ---
 
 ### 📫 Connect with Me
-*   **LinkedIn:** [Your LinkedIn Profile]
-*   **Email:** [Your Professional Email]
+*   **LinkedIn:** https://www.linkedin.com/in/ghazi-taherin/
+*   **Email:** ghazi.taherin@gmail.com
