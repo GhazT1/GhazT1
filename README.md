@@ -22,7 +22,7 @@ With over **4+ years of experience**, I bridge the gap between complex data and 
 
 ## 💼 High-Impact Projects
 
-### 📊 [eCommerce Review & Ranking System](https://github.com)
+### 📊 [eCommerce Review & Ranking System]([https://github.com](https://github.com/GhazT1/eCommerce-Review-Ranking-System))
 *   **Business Problem:** How to identify high-value customer sentiment amidst 10k+ noise-heavy reviews?
 *   **The Solution:** Built an NLP-driven ranking engine in Python to prioritize reviews based on helpfulness and conversion probability.
 *   **Business Impact:** Improved product team response time by 40% and increased review-to-cart conversion by 12%.
