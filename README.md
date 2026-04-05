@@ -5,7 +5,7 @@ With over **4+ years of experience**, I bridge the gap between complex data and 
 ---
 
 ## 📈 Executive Summary
-*   **Strategic Impact:** Proven track record of leveraging **Python** and **SQL** to automate workflows and uncover $Xk+ in hidden opportunities.
+*   **Strategic Impact:** Proven track record of leveraging **Python** and **SQL** to automate workflows and uncover $50k+ in hidden opportunities.
 *   **Data Storytelling:** Expert at translating technical metrics into clear, actionable insights for C-suite stakeholders.
 *   **Technical Breadth:** Advanced data modeling, predictive analytics, and interactive visualization (Tableau/PowerBI/Streamlit).
 
