@@ -35,8 +35,7 @@ With over **4+ years of experience**, I bridge the gap between complex data and 
 
 ---
 
-## 📊 Analytics Pulse
-![GhazT1's GitHub stats](https://vercel.app)
+
 
 ---
 
