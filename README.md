@@ -1,44 +1,33 @@
-# Hi, I'm Ghazi | Senior Data Professional 📊
+# Hi, I'm Ghazi 👋
 
-With over **4+ years of experience**, I bridge the gap between complex data and strategic business decisions. I specialize in turning raw data into high-impact narratives that drive stakeholder action.
+Data professional based in Singapore, 5+ years across banking and fintech (BNP Paribas, Bank of America, Flipster). I work across the full data stack — analytics, pipelines, and applied ML — rather than staying boxed into one lane.
 
----
-
-## 📈 Executive Summary
-*   **Strategic Impact:** Proven track record of leveraging **Python** and **SQL** to automate workflows and uncover $50k+ in hidden opportunities.
-*   **Data Storytelling:** Expert at translating technical metrics into clear, actionable insights for C-suite stakeholders.
-*   **Technical Breadth:** Advanced data modeling, predictive analytics, and interactive visualization (Tableau/PowerBI/Streamlit).
+Recently I've been deepening data engineering (Airflow, dbt, Snowflake, PySpark, AWS) and AI engineering (LLM agents, RAG) alongside the analytics and BI work I've done professionally for years.
 
 ---
 
-## 🛠 Strategic Toolset
-![SQL](https://shields.io)
-![Python](https://shields.io)
-![Tableau](https://shields.io)
-![Pandas](https://shields.io)
-![Stakeholder Management](https://shields.io)
+## What I'm building
+
+**[production-elt-pipeline](https://github.com/GhazT1/production-elt-pipeline)**
+End-to-end ELT pipeline (S3 → Airflow → Snowflake → dbt) with full test coverage and clean `dbt build` runs. Modeled on a real-world streaming analytics use case.
+
+**[Multi-Agent-Financial-Research-Assistant](https://github.com/GhazT1/Multi-Agent-Financial-Research-Assistant)**
+Multi-agent financial research microservice built with LangGraph, FastAPI, and PostgreSQL checkpointing.
+
+**[eCommerce-Review-Ranking-System](https://github.com/GhazT1/eCommerce-Review-Ranking-System)**
+NLP pipeline (Scikit-learn, spaCy) that filters and ranks e-commerce reviews by linguistic quality and sentiment.
+
+*More projects, including a production-grade PySpark/AWS FX rates pipeline, coming soon.*
 
 ---
 
-## 💼 High-Impact Projects
+## Tools I work with
 
-### 📊 [eCommerce Review & Ranking System](https://github.com/GhazT1/eCommerce-Review-Ranking-System)
-*   **Business Problem:** How to identify high-value customer sentiment amidst 10k+ noise-heavy reviews?
-*   **The Solution:** Built an NLP-driven ranking engine in Python to prioritize reviews based on helpfulness and conversion probability.
-*   **Business Impact:** Improved product team response time by 40% and increased review-to-cart conversion by 12%.
-
-
-### 📈 [Client Case Study: Operational Efficiency](link-to-repo)
-*   **Business Problem:** Stakeholders lacked real-time visibility into supply chain bottlenecks.
-*   **The Solution:** Engineered a multi-source SQL pipeline feeding into a dynamic executive dashboard.
-*   **Business Impact:** Reduced reporting manual labor by 20 hours/week and identified a 5% waste reduction in logistics.
+`SQL` `Python` `PySpark` `Airflow` `dbt` `Snowflake` `AWS (S3, Athena, Terraform)` `GCP/BigQuery` `LangGraph` `Tableau`
 
 ---
 
+## Connect
 
-
----
-
-### 📫 Connect with Me
-*   **LinkedIn:** https://www.linkedin.com/in/ghazi-taherin/
-*   **Email:** ghazi.taherin@gmail.com
+- LinkedIn: [linkedin.com/in/ghazi-taherin](https://www.linkedin.com/in/ghazi-taherin/)
+- Email: ghazi.taherin@gmail.com
